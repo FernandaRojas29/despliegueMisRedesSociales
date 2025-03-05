@@ -1,0 +1,23 @@
+{
+    "nombre": "Mónica Fernanda Rojas Celis",
+    "biografia": "Desarrolladora apasionada por la tecnología y el aprendizaje continuo.",
+    "redes": [
+      {
+        "titulo": "Facebook",
+        "url": "https://www.facebook.com/share/18uWzduQSw/"
+      },
+      {
+        "titulo": "Instagram",
+        "url": "https://www.instagram.com/monicafernandarojascelis?igsh=MXMzcW0wOHg1cDNicg=="
+      },
+      {
+        "titulo": "LinkedIn",
+        "url": "https://www.linkedin.com/in/monica-fernanda?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      {
+        "titulo": "GitHub",
+        "url": "https://github.com/FernandaRojas29"
+      }
+    ]
+  }
+  
